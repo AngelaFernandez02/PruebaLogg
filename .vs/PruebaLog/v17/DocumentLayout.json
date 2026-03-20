@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\models\\pruebalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\models\\pruebalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\pruebalog\\pruebalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45129D99-52FB-422E-A545-A15B81FA6202}|PruebaLog\\PruebaLog.csproj|solutionrelative:pruebalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "PruebaLog\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:13:20.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Program.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Program.cs",
+              "RelativeToolTip": "PruebaLog\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:38:16.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PruebaLog\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:46:48.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PruebaLog\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:47:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\Usuario.cs",
+              "RelativeToolTip": "PruebaLog\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:46:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\Cliente.cs",
+              "RelativeToolTip": "PruebaLog\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:45:56.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PruebaLogContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\PruebaLogContext.cs",
+              "RelativeDocumentMoniker": "PruebaLog\\Models\\PruebaLogContext.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\Models\\PruebaLogContext.cs",
+              "RelativeToolTip": "PruebaLog\\Models\\PruebaLogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:44:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaLog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\PruebaLog\\PruebaLog\\appsettings.json",
+              "RelativeToolTip": "PruebaLog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-20T06:38:24.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
